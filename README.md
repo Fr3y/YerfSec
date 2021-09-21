@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Pr1M342
+- 👋 Hi, I’m Yerf
 - 👀 I’m interested in Linux 
 - 🌱 I’m currently learning Lk
 - 💞️ I’m looking to collaborate on Os
