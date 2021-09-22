@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Yerf
 - 👀 I’m interested in Linux 
-- 🌱 I’m currently learning Lk
+- 🌱 I’m currently learning C language 
 - 💞️ I’m looking to collaborate on Os
 - 📫 How to reach me [Click Here](https://t.me/y3rfo)
 
